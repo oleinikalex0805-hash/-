@@ -1,3 +1,1 @@
-"ConnectionStrings": {
-    "Default": "Server=localhost; Database=RequestManagement; Trusted_Connection=True; TrustServerCertificate=True"
-}
+{ "ConnectionStrings": { "Default": "Server=localhost;Database=OrgRequests;Trusted_Connection=True;TrustServerCertificate=True" } }
